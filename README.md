@@ -1,1 +1,0 @@
-# homotopy.github.io
