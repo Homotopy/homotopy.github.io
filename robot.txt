@@ -1,0 +1,8 @@
+# 示例 2：屏蔽 Googlebot 和 Adsbot
+User-agent: Googlebot
+User-agent: AdsBot-Google
+Disallow: /
+ 
+# 示例 3：屏蔽除 AdsBot 抓取工具之外的所有抓取工具
+User-agent: * 
+Disallow: /
